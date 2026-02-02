@@ -325,6 +325,7 @@ docker-compose down
 | 权限 | 范围 | 说明 |
 |------|------|------|
 | `contact:user.base:readonly` | 用户信息 | 获取用户基本信息（用于解析发送者姓名，避免群聊/私聊把不同人当成同一说话者） |
+| `contact:contact.base:readonly` | 通讯录 | 获取通讯录基本信息 |
 | `im:message` | 消息 | 发送和接收消息 |
 | `im:message.p2p_msg:readonly` | 私聊 | 读取发给机器人的私聊消息 |
 | `im:message.group_at_msg:readonly` | 群聊 | 接收群内 @机器人 的消息 |
