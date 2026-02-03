@@ -589,6 +589,30 @@ openclaw gateway --verbose
 
 ---
 
+## ⭐ Star History
+
+如果这个项目对您有帮助，请给我们一个 Star ⭐️！您的支持是我们持续改进的动力。
+
+[![Star History Chart](https://api.star-history.com/svg?repos=justlovemaki/OpenClaw-Docker-CN-IM&type=Date)](https://star-history.com/#justlovemaki/OpenClaw-Docker-CN-IM&Date)
+
+---
+
+## 💖 赞助支持
+
+如果您觉得这个项目对您有帮助，欢迎赞助支持我们的开发工作！
+
+<p align="center">
+  <img src="sponsor.png" alt="微信赞赏码" width="300">
+</p>
+
+### 赞助者名单
+
+感谢以下赞助者的支持：
+
+赞助者列表将在这里更新
+
+---
+
 ## 许可证
 
 本项目基于 OpenClaw 构建，遵循 GNU General Public License v3.0 (GPL-3.0) 许可证。详见 [`LICENSE`](LICENSE) 文件。
